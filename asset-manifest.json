@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shoppingCartAppRedux/static/css/main.412b46d1.css",
+    "main.js": "/shoppingCartAppRedux/static/js/main.2440af4c.js",
+    "static/js/453.8ab44547.chunk.js": "/shoppingCartAppRedux/static/js/453.8ab44547.chunk.js",
+    "static/media/logo.png": "/shoppingCartAppRedux/static/media/logo.abe38ad162a16fe8cdda.png",
+    "index.html": "/shoppingCartAppRedux/index.html",
+    "main.412b46d1.css.map": "/shoppingCartAppRedux/static/css/main.412b46d1.css.map",
+    "main.2440af4c.js.map": "/shoppingCartAppRedux/static/js/main.2440af4c.js.map",
+    "453.8ab44547.chunk.js.map": "/shoppingCartAppRedux/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412b46d1.css",
+    "static/js/main.2440af4c.js"
+  ]
+}
